@@ -1,0 +1,46 @@
+.cuerpo {
+  background-color: #2a5c0b;
+  margin: 0%;
+  padding: 0%;
+}
+.contenedor {
+  background-color: #faedd9;
+  margin: 60px;
+  border-radius: 10px;
+}
+.video-responsive {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.video-responsive iframe {
+  border-radius: 20px;
+  border: 2px solid #ea2a15;
+  width: 95%;
+  height: 95%;
+  position: absolute;
+  top: 0;
+  margin: 10px;
+}
+h1 {
+  background-color: #808f12;
+  text-align: center;
+  font-size: 35px;
+  color: whitesmoke;
+}
+h6 li {
+  display: inline-block;
+}
+h6 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #ea2a15;
+}
+video {
+  border-radius: 20px;
+  border: 2px solid #ea2a15;
+  width: 95%;
+  height: 95%;
+  top: 0;
+  margin: 10px;
+}
